@@ -3,7 +3,7 @@
 
 int main()
 {
-    //test singleton
+    //basic test
     Singleton::GetInstance()->PrintSomething();
     return 0;
 }
