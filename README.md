@@ -1,3 +1,3 @@
 # Design-Patterns
-## Design Patterns in C++
+### Design Patterns in C++
 1. Singleton
